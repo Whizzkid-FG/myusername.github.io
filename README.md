@@ -27,7 +27,7 @@ This is my professional portfolio website showcasing my skills, experience, and 
 
 ## Deployment
 
-The site is deployed at: [https://myusername.github.io](https://myusername.github.io)
+The site is deployed at: [https://myusername.github.io](https://whizzkid-fg.github.io/myusername.github.io/index.html)
 
 ## Additional Resources
 
