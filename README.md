@@ -33,3 +33,4 @@ The site is deployed at: [https://myusername.github.io](https://whizzkid-fg.gith
 
 - [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [GitHub API Documentation](https://docs.github.com/en/rest)
+- [ParticlesJS](https://vincentgarreau.com/particles.js/)
